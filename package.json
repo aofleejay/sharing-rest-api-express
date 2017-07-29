@@ -1,0 +1,31 @@
+{
+  "name": "rest-api-express-example",
+  "version": "1.0.0",
+  "description": "RESTful api with Express example project",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aofleejay/rest-api-express-example.git"
+  },
+  "keywords": [
+    "express",
+    "restapi express"
+  ],
+  "author": "Kunapot Pairat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aofleejay/rest-api-express-example/issues"
+  },
+  "homepage": "https://github.com/aofleejay/rest-api-express-example#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
