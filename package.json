@@ -15,7 +15,7 @@
     "express",
     "restapi express"
   ],
-  "author": "Kunapot Pairat",
+  "author": "aofleejay",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/aofleejay/rest-api-express-example/issues"
